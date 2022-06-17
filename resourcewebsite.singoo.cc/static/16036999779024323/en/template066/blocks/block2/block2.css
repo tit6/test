@@ -1,0 +1,16 @@
+.block2_T66 { margin-bottom: 3.64583%; }
+@media screen and (max-width: 875px) { .block2_T66 { margin-bottom: 40px; } }
+.block2_T66 .title { font-size: 36px; line-height: 1.2; text-transform: capitalize; text-align: center; color: #151515; }
+@media screen and (max-width: 1400px) { .block2_T66 .title { font-size: 30px; } }
+@media screen and (max-width: 875px) { .block2_T66 .title { font-size: 24px; } }
+.block2_T66 .wrap { margin-top: 3.75%; }
+.block2_T66 .box { width: 30.83333%; text-align: center; margin-bottom: 2.5%; }
+.block2_T66 .box:hover img { filter: alpha(opacity=70); opacity: 0.7; }
+.block2_T66 .box:hover .tit { color: #f4ad2d; }
+.block2_T66 .line { width: 30.83333%; }
+.block2_T66 .imgW { background: #000; display: block; overflow: hidden; }
+.block2_T66 .imgW img { transition: 0.5s all ease; -moz-transition: 0.5s all ease; -webkit-transition: 0.5s all ease; -o-transition: 0.5s all ease; -ms-transition: 0.5s all ease; }
+.block2_T66 .imgW:hover img { transform: scale(1.1); -ms-transform: scale(1.1); -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); }
+.block2_T66 .imgW img { display: block; }
+.block2_T66 .tit { display: inline-block; margin-top: 10px; font-size: 18px; font-weight: bold; color: #151515; }
+@media screen and (max-width: 600px){.block2_T66 .box{width:47%;}}

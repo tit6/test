@@ -1,0 +1,22 @@
+.block3_T66 { margin-bottom: 5.20833%; padding-top: 5.20833%; padding-bottom: 5.20833%; background: #000; }
+@media screen and (max-width: 875px) { .block3_T66 { margin-bottom: 40px; } }
+.block3_T66 .title { color: #fff; font-size: 36px; line-height: 1.2; text-transform: capitalize; position: relative; }
+@media screen and (max-width: 1400px) { .block3_T66 .title { font-size: 30px; } }
+@media screen and (max-width: 875px) { .block3_T66 .title { font-size: 24px; } }
+.block3_T66 .wrap { overflow: hidden; display: -webkit-box; display: -ms-flexbox; display: flex; display: -webkit-flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-orient: horizontal; -webkit-box-direction: reverse; -webkit-flex-direction: row-reverse; -ms-flex-direction: row-reverse; flex-direction: row-reverse; }
+.block3_T66 .textWrap { width: 41.66667%; vertical-align: middle; }
+.block3_T66 .imgWrap { width: 47.5%; display: inline-block; vertical-align: middle; position: relative; }
+.block3_T66 .imgWrap .play { width: 13.27273%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; }
+.block3_T66 .des { line-height: 24px; color: rgba(255, 255, 255, 0.5); margin-top: 10%; padding-left: 40px; position: relative; }
+.block3_T66 .des:before { content: ""; width: 10px; height: 100%; position: absolute; left: 0; top: 0; background: #f4ad2d; }
+.block3_T66 .more { text-transform: capitalize; display: inline-block; color: #f4ad2d; margin-top: 14.0%; padding: 3.6% 10%; line-height: 1; font-weight: bold; background: #333333; border-radius: 50px; }
+.block3_T66 .more:hover { background: #fff; }
+
+@media screen and (max-width: 875px) { .block3_T66 .title { padding-left: 0; }
+    .block3_T66 .title:before { display: none; }
+    .block3_T66 .textWrap { width: 100%; margin-top: 10px; text-align: center; }
+    .block3_T66 .imgWrap { width: 100%; margin-top: 10px; }
+    .block3_T66 .des { margin-top: 10px; }
+    .block3_T66 .more { padding: 8px 16px; margin-top: 20px; }
+    .block3_T66 .des { padding-left: 0; }
+    .block3_T66 .des:before { display: none; } }

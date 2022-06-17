@@ -1,0 +1,14 @@
+.block4_T64 { padding-top: 2.60417%; padding-bottom: 2.60417%; background: #f4ad2d; margin-bottom: 5.20833%; }
+@media screen and (max-width: 875px) { .block4_T64 { margin-bottom: 40px; } }
+.block4_T64 .leftWrap { width: 71.66667%; }
+.block4_T64 .box { vertical-align: middle; }
+.block4_T64 .tit { font-size: 30px; color: #fff; line-height: 1; font-weight: bold; }
+.block4_T64 .des { font-size: 16px; color: #fff; margin-top: 5px; }
+.block4_T64 .btn { display: inline-block; vertical-align: middle; color: #151515; text-transform: capitalize; padding: 15px 20px; background: #fff; border-radius: 50px; font-weight: bold; }
+.block4_T64 .btn:hover { background: #151515; color: #fff; border-color: #f4ad2d; }
+
+@media screen and (max-width: 875px) { .block4_T64 { padding-top: 30px; padding-bottom: 30px; }
+    .block4_T64 .tit { float: none; }
+    .block4_T64 .leftWrap { width: 100%; }
+    .block4_T64 .btn { margin-top: 15px; padding: 8px 15px; }
+    .block4_T64 .tit { font-size: 24px; } }

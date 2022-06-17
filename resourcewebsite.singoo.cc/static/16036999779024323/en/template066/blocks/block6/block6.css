@@ -1,0 +1,18 @@
+.block6_T66 { margin-bottom: 5.20833%; }
+@media screen and (max-width: 875px) { .block6_T66 { margin-bottom: 40px; } }
+.block6_T66 .title { font-size: 36px; line-height: 1.2; text-transform: capitalize; color: #151515; text-align: center; }
+@media screen and (max-width: 1400px) { .block6_T66 .title { font-size: 30px; } }
+@media screen and (max-width: 875px) { .block6_T66 .title { font-size: 24px; } }
+.block6_T66 .wrap { margin-top: 4.16667%; }
+.block6_T66 .box { width: 30.83333%; }
+.block6_T66 .box:hover .imgW { box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); }
+.block6_T66 .line { width: 30.83333%; }
+.block6_T66 .imgW { display: block; }
+.block6_T66 .textW { padding: 5.40541%; }
+.block6_T66 .tit { display: inline-block; color: #151515; font-size: 18px; font-weight: bold; margin-top: 10px; }
+.block6_T66 .tit:hover { color: #f4ad2d; }
+.block6_T66 .des { margin-top: 10px; color: #364d59; }
+.block6_T66 .date { margin-top: 10px; color: #f4ad2d; }
+
+@media screen and (max-width: 875px) { .block6_T66 .box { width: 47%; margin-bottom: 20px; } }
+@media screen and (max-width: 500px) { .block6_T66 .box { width: 100%; } }

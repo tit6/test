@@ -1,0 +1,12 @@
+#banner { margin-bottom: 5.20833%; position: relative; }
+@media screen and (max-width: 875px) { #banner { margin-bottom: 40px; } }
+#banner a { display: block; position: relative; }
+#banner .slick-prev, #banner .slick-next { width: 50px; height: 50px; line-height: 50px; margin-top: -25px; font-size: 24px; color: #000; background: none; }
+#banner .slick-prev:before { content: "\e63e"; }
+#banner .slick-next:before { content: "\e63d"; }
+#banner .slick-dots li.slick-active button { background: #f4ad2d; }
+
+@media screen and (max-width: 1200px) { #banner .item:first-child .wrap { display: none; }
+    #banner .slick-prev, #banner .slick-next { width: 30px; height: 60px; line-height: 60px; margin-top: -30px; }
+    #banner { margin-bottom: 35px; } }
+@media screen and (max-width: 875px) { #banner .slick-prev, #banner .slick-next { width: 20px; height: 40px; line-height: 40px; margin-top: -20px; } }

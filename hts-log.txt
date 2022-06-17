@@ -1,0 +1,234 @@
+HTTrack3.49-2 launched on Fri, 17 Jun 2022 14:19:31 at https://www.sdchinamachine.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.sdchinamachine.com/ -O "/home/titouan/websites/test" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:29:56	Error: 	Unable to save file /home/titouan/websites/test/www.sdchinamachine.com/shandong-hightop-machinery-co-ltd-product.html/p/1.html: Is a directory
+14:41:46	Error: 	Unable to save file /home/titouan/websites/test/www.sdchinamachine.com/news.html/p/1.html": Is a directory
+15:44:22	Error: 	"Not Found" (404) at link resourcewebsite.singoo.cc/16036999779024323/en/image/61bc255d55dd4.jpg<meta http-equiv='Refresh' content='0;URL=/404.html'> (from https://www.sdchinamachine.com/ht15-15t-mini-excavator-16055778408806996.html)
+15:49:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): t.91syun.com/track.js
+15:49:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/image/60d56fbc412d5.jpg
+15:50:04	Error: 	"Not Found" (404) at link resourcewebsite.singoo.cc/static/Public/icon/16036999779024323.ico (from https://www.sdchinamachine.com/)
+15:50:04	Warning: 	HTML file (29336 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/company-profile.html
+15:50:11	Warning: 	HTML file (30431 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/warmly-welcome-the-alibaba-study-tour-team-to-visit-and-study-at-hightop-group16539835582518313.html
+15:50:13	Warning: 	HTML file (28908 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht15-mini-excavators-exported-to-poland16536343627510995.html
+15:50:16	Warning: 	HTML file (1 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/Home/Product/postdend
+15:50:18	Warning: 	HTML file (55857 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht10a-1t-mini-excavator-16055234638353479.html
+15:50:22	Warning: 	HTML file (63228 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/parameters-of-pc-10-mini-excavator-16055191407991133.html
+15:50:26	Warning: 	HTML file (71981 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht08-mini-excavator-16240047707932927.html
+15:50:30	Warning: 	HTML file (100396 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht08-mini-excavator-16055058791252475.html
+15:50:34	Warning: 	HTML file (52784 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht1000-1t-full-hydraulic-road-roller-16056715051338949.html
+15:50:37	Warning: 	HTML file (84696 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/remote-control-lawn-mower-16056834267738248.html
+15:50:41	Warning: 	HTML file (51838 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht204-20hp-single-cylinder-mini-tractor-16056838262954173.html
+15:50:44	Warning: 	HTML file (45826 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-d-polyurethane-injection-machine-16057570771606567.html
+15:50:47	Warning: 	HTML file (45279 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/polyurethane-twin-heated-hose-16057642006709222.html
+15:50:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s7.addthis.com/js/300/addthis_widget.js
+15:50:49	Warning: 	HTML file (52217 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/closed-cell-two-component-polyurethane-16057655962856242.html
+15:50:51	Warning: 	HTML file (49243 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e3-polyurethane-spraying-machine-16245925480130972.html
+15:50:54	Warning: 	HTML file (52281 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-r-remote-control-polyurethane-spray-foam-machine-16273748554521376.html
+15:50:56	Warning: 	HTML file (47014 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/winterboy-a25-polyurea-spray-machine-16273756990286956.html
+15:50:58	Warning: 	HTML file (50517 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/sawmill-16328775176959654.html
+15:51:01	Warning: 	HTML file (52779 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht1500-15t-full-hydraulic-road-roller-16056759992722125.html
+15:51:04	Warning: 	HTML file (50727 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht-304-30hp-4wd-mini-farm-tractor-16056841627550753.html
+15:51:06	Warning: 	HTML file (43870 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-300-hydraulic-type-polyurethane-spray-foam-machine-16057551580264380.html
+15:51:09	Warning: 	HTML file (44635 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-200300c-panel-injection-machine-16057566763345882.html
+15:51:11	Warning: 	HTML file (48924 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-500l-polyurea-spray-machine-16057630558351682.html
+15:51:14	Warning: 	HTML file (42026 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/pneumatic-transfer-pump-16057651360952488.html
+15:51:16	Warning: 	HTML file (46560 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/polyurea-elastomer-two-component-chemicals-16057657841889902.html
+15:51:19	Warning: 	HTML file (60554 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/electric-remote-control-wheel-lawn-mover-16155321887462636.html
+15:51:23	Warning: 	HTML file (46217 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/wood-chipper-16328791245417657.html
+15:51:26	Warning: 	HTML file (51647 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-machinery-co-ltd-product.html/p/1.html/p/2
+15:51:30	Warning: 	HTML file (58989 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht10c-1t-mini-excavator-16055206546219752.html
+15:51:33	Warning: 	HTML file (58370 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht-10d-1t-mini-excavator-16397199800130580.html
+15:51:37	Warning: 	HTML file (60530 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht12-12t-mini-excavator-16055248342486526.html
+15:51:40	Warning: 	HTML file (52573 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht15-15t-mini-excavator-16055778408806996.html
+15:51:45	Warning: 	HTML file (51408 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht18-18t-mini-excavator-16056051475465987.html
+15:51:48	Warning: 	HTML file (135484 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht20-2t-mini-excavator-16056055649388720.html
+15:51:53	Warning: 	HTML file (51720 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht22-22t-mini-excavator-16056060086568513.html
+15:51:56	Warning: 	HTML file (49369 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht25-25t-mini-excavator-16056063530790316.html
+15:51:59	Warning: 	HTML file (49917 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht30-3t-mini-excavator-16056068677820550.html
+15:52:02	Warning: 	HTML file (51897 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht35-35t-mini-excavator-16056077906792332.html
+15:52:05	Warning: 	HTML file (62344 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht45-45t-mini-excavator-16056085281557470.html
+15:52:08	Warning: 	HTML file (50495 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht65-65t-crawler-excavator-16056093040458100.html
+15:52:11	Warning: 	HTML file (50500 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht75-75t-crawler-excavator-16056096563985347.html
+15:52:15	Warning: 	HTML file (49859 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht80-8t-wheel-excavator-16056106196032870.html
+15:52:18	Warning: 	HTML file (50887 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht90-9t-crawler-excavator-16056113743567918.html
+15:52:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/16036999779024323/en/image/phone_5fb607d5a5507.jpg
+15:52:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/16036999779024323/en/image/phone_5fb608738840b.jpg
+15:52:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/16036999779024323/en/image/phone_5fb60dbe379b2.jpg
+15:52:21	Warning: 	HTML file (43848 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/excavator-accessories-16309837989945900.html
+15:52:24	Warning: 	HTML file (54719 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hts280-mini-crawler-skid-steer-loader-16056653121176326.html
+15:52:27	Warning: 	HTML file (56364 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hts380-mini-wheel-skid-steer-loader-16056701155129670.html
+15:52:31	Warning: 	HTML file (46794 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht910-wheel-loader-16056706164549677.html
+15:52:35	Warning: 	HTML file (45291 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht920-wheel-loader-16056708518863947.html
+15:52:38	Warning: 	HTML file (47320 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht15-10-backhoe-loader-16056710581598615.html
+15:52:41	Warning: 	HTML file (47212 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht30-25-backhoe-loader--16056712749601363.html
+15:52:44	Warning: 	HTML file (62057 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hts35-mini-skid-steer-loader-16534675190810523.html
+15:52:47	Warning: 	HTML file (67795 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hts430-mini-wheel-skid-steer-loader-16534676422804309.html
+15:52:52	Warning: 	HTML file (46093 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/htel12-electric-loader-16534677187506955.html
+15:52:55	Warning: 	HTML file (45648 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hts25-skid-steer-loader-16534678077519722.html
+15:52:58	Warning: 	HTML file (56874 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hts60-skid-steer-loader-16534678595121804.html
+15:53:01	Warning: 	HTML file (47754 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e2-spray-foam-machine-16057556476198108.html
+15:53:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/16036999779024323/en/image/phone_6153c0eaa792e.jpg
+15:53:05	Warning: 	HTML file (43151 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-4-injection-foam-machine-16057564320828798.html
+15:53:08	Warning: 	HTML file (45534 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e10hp-polyurea-spray-machine-16057632547419580.html
+15:53:11	Warning: 	HTML file (41589 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/pu-and-polyurea-spray-gun-16057653296267167.html
+15:53:14	Warning: 	HTML file (46572 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/single-component-polyurea-16057662119124787.html
+15:53:18	Warning: 	HTML file (44655 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e8p-spray-foam-machine-16057560098821285.html
+15:53:21	Warning: 	HTML file (44895 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cyclopentane-high-pressure-foaming-machine-16057697724159655.html
+15:53:24	Warning: 	HTML file (45163 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e20-polyurea-spray-machine-16057692335116163.html
+15:53:27	Warning: 	HTML file (46981 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/polyurea-two-component-bedliner-polyurea-chemicals-16057670183860758.html
+15:53:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/16036999779024323/en/image/phone_628de6b6e6dc9.jpg
+15:53:31	Warning: 	HTML file (45548 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-400-spray-foam-machine-16057703741047120.html
+15:53:34	Warning: 	HTML file (41989 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/polyurethane-polyurea-spray-machine.html/p/2
+15:53:37	Warning: 	HTML file (46631 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-b-spray-foam-machine-16057705752748727.html
+15:53:40	Warning: 	HTML file (46450 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-h-spray-foam-machine-16057706751984466.html
+15:53:43	Warning: 	HTML file (48661 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-200-spray-foam-machine-16057532741297696.html
+15:53:46	Warning: 	HTML file (47762 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/high-pressure-microcomputer-control-polyurethane-injection-machine-16057699199170208.html
+15:53:50	Warning: 	HTML file (48747 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/low-pressure-flexible-pu-foam-injection-machine-16057701515010957.html
+15:53:54	Warning: 	HTML file (45375 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/low-pressure-metering-machine-for-rigid-polyurethane-16057702586195559.html
+15:53:58	Warning: 	HTML file (45023 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e30-polyurea-spray-machine-16057693833635682.html
+15:54:02	Warning: 	HTML file (45716 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-e40-polyurea-spray-machine-16057695828907377.html
+15:54:06	Warning: 	HTML file (47783 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cnmc-500-polyurea-spray-machine-16057576291100994.html
+15:54:09	Warning: 	HTML file (46862 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cold-spray-polyurea-cartridge-elastomer-16057686191240796.html
+15:54:12	Warning: 	HTML file (52139 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht2000-2t-full-hydraulic-road-roller-16056766974429805.html
+15:54:16	Warning: 	HTML file (52709 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht3000-3t-full-hydraulic-road-roller-16056782051741370.html
+15:54:19	Warning: 	HTML file (52945 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-ride-on-road-roller-water-cooled-diesel-engine-16056792817901404.html
+15:54:22	Warning: 	HTML file (52510 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/handheld-single-wheel-road-roller-diesel-gasoline-16056796541764294.html
+15:54:25	Warning: 	HTML file (49687 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/walking-behind-double-wheel-road-roller-dieselgasoline-16056806509840735.html
+15:54:28	Warning: 	HTML file (53219 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht-504-50hp-4wd-mini-farm-tractor-16056845518553860.html
+15:54:30	Warning: 	HTML file (57212 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/large-remote-control-lawn-mower-16304845445056840.html
+15:54:33	Warning: 	HTML file (56475 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht850-remote-control-crawler-lawn-mower-16397218471623486.html
+15:54:35	Warning: 	HTML file (30577 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/in-the-first-half-of-2022-the-on-site-observation-group-of-the-citys-key-projects-will-visit-shandong-hightop-group16552832578023270.html
+15:54:37	Warning: 	HTML file (30922 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/warmly-welcome-the-leaders-of-jining-economic-development-zone-to-visit-hightop-group-for-investigation-and-research16528649200818745.html
+15:54:39	Warning: 	HTML file (31439 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/warm-congratulations-to-shandong-hightop-group-for-passing-the-quotspecialization-refinement-specialization-noveltyquot-sme-certification16520866105208640.html
+15:54:40	Warning: 	HTML file (30922 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/notice-on-the-2022-labor-day-holiday-and-post-holiday-adjustment-of-working-hours16512153585425863.html
+15:54:43	Warning: 	HTML file (40507 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-handsome-guy-resigned-from-a-high-paying-job-and-sold-excavators-online-with-an-annual-sales-of-140-million16508677885084452.html
+15:54:45	Warning: 	HTML file (29255 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/33-ht10b-mini-excavators-sent-to-australia16506173633665890.html
+15:54:47	Warning: 	HTML file (29408 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/crawler-trucks-sent-to-the-united-states16502646458847223.html
+15:54:48	Warning: 	HTML file (28747 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht10b-mini-excavator-sent-to-russia16496479171892429.html
+15:54:50	Warning: 	HTML file (30599 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hazards-of-high-temperature-work-to-small-rollers-and-preventive-methods16484498309589963.html
+15:54:52	Warning: 	HTML file (31304 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/how-to-deal-with-the-high-water-temperature-of-the-small-excavator16469795339212898.html
+15:54:54	Warning: 	HTML file (31097 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/mini-excavator-fuel-saving-tips16452412427587215.html
+15:54:56	Warning: 	HTML file (30841 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/structural-characteristics-of-the-running-gear-of-the-multi-track-transport-vehicle16450001397997338.html
+15:54:58	Warning: 	HTML file (31179 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-and-micro-excavator-agricultural-function16445692675057233.html
+15:55:00	Warning: 	HTML file (28928 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/notice-on-the-holiday-arrangements-for-the-spring-festival-in-202216433353066019655.html
+15:55:01	Warning: 	HTML file (29739 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-group-donates-loving-anti-epidemic-materials-to-jining-red-cross-society16431790774610245.html
+15:55:03	Warning: 	HTML file (29816 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-role-of-small-road-rollers-in-earthwork-or-oil-surface-compaction16430123322374300.html
+15:55:05	Warning: 	HTML file (29621 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/characteristics-and-cleaning-methods-of-paper-filters-for-small-excavators16426632053338998.html
+15:55:07	Warning: 	HTML file (38661 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/whats-the-matter-with-the-hot-hydraulic-system-of-the-small-excavator16424956240738621.html
+15:55:09	Warning: 	HTML file (53286 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/news.html/p/1.html"/p/2
+15:56:12	Warning: 	HTML file (51541 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-machinery-co-ltd-product.html/p/1.html/p/1
+15:56:17	Warning: 	HTML file (52564 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/polyurethane-polyurea-spray-machine.html/p/1
+15:56:20	Warning: 	HTML file (28880 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht08-mini-excavator-sent-to-germany16420529223373433.html
+15:56:22	Warning: 	HTML file (34174 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/common-faults-and-troubleshooting-methods-of-small-road-rollers16417946313723651.html
+15:56:24	Warning: 	HTML file (36114 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/application-of-closed-hydrostatic-double-track-drive-in-crawler-transporter16415324852295760.html
+15:56:26	Warning: 	HTML file (36417 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/use-of-crawler-type-small-excavators16413628407678881.html
+15:56:29	Warning: 	HTML file (29748 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/characteristics-and-cleaning-methods-of-paper-filters-for-small-excavators16409385637925710.html
+15:56:31	Warning: 	HTML file (28944 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/22-ht10-small-excavators-sent-to-europe16406819799686549.html
+15:56:33	Warning: 	HTML file (30196 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-operation-method-of-the-crawler-truck-manpower-starting-the-diesel-engine16401564506488851.html
+15:56:35	Warning: 	HTML file (30005 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-must-be-paid-attention-to-when-installing-the-boom-and-parts-of-the-mini-excavator16399778046240413.html
+15:56:37	Warning: 	HTML file (31245 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/winter-maintenance-knowledge-of-agricultural-crawler-transport-vehicles16397936385459342.html
+15:56:40	Warning: 	HTML file (32193 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/short-term-demand-fluctuations-for-excavators-are-expected-to-remain-stable-in-the-medium-and-long-term16394652261628519.html
+15:56:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): resourcewebsite.singoo.cc/16036999779024323/banner_image/60c86f1fc6d95.jpg
+15:56:42	Warning: 	HTML file (30257 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht12-small-excavator-sent-to-the-uk16390171927900333.html
+15:56:45	Warning: 	HTML file (31438 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/treatment-method-of-iron-filings-of-small-excavator16387679808051721.html
+15:56:47	Warning: 	HTML file (30859 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/cant-the-small-roller-hit-the-car16385092986696233.html
+15:56:49	Warning: 	HTML file (29589 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/how-to-identify-the-quality-of-used-excavators16382375360988873.html
+15:56:51	Warning: 	HTML file (29859 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/noise-imaging-analysis-of-small-excavator16379771720903437.html
+15:56:53	Warning: 	HTML file (31439 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/common-sense-of-maintenance-and-oil-change-of-mechanical-transmission-system-of-small-vibratory-roller16378213332654636.html
+15:56:54	Warning: 	HTML file (33139 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-current-situation-and-development-direction-of-small-excavator-industry16375627439467917.html
+15:56:56	Warning: 	HTML file (31647 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-kind-of-road-compaction-operation-is-suitable-for-the-walk-behind-roller16373079642081976.html
+15:56:58	Warning: 	HTML file (28875 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht15-kleinbagger-ausgeliefert16372249962978506.html
+15:57:00	Warning: 	HTML file (31565 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/how-to-maintain-excavators-in-autumn-and-winter-and-matters-needing-attention16369593271128398.html
+15:57:02	Warning: 	HTML file (31628 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-main-points-and-common-problems-of-small-excavator-leveling-work16367716653015636.html
+15:57:04	Warning: 	HTML file (54374 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/news.html/p/1.html"/p/1
+15:57:06	Warning: 	HTML file (30429 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/mini-excavator-engine-stalled16365238378464378.html
+15:57:08	Warning: 	HTML file (30588 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/precautions-for-the-use-of-hydraulic-oil-for-small-rollers16361688210391948.html
+15:57:09	Warning: 	HTML file (29284 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/mini-excavator-oil-tank-cleaning16359099768334132.html
+15:57:11	Warning: 	HTML file (33871 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/how-to-keep-the-excavator-as-new16354786570448145.html
+15:57:13	Warning: 	HTML file (29462 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/15-ht10c-small-excavators-sent-to-the-united-states16353024833849241.html
+15:57:15	Warning: 	HTML file (30141 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/congratulations-to-shandong-hightop -group-for-winning-multiple-honorary-titles-in-alibabas-september-purchasing-festival16349592694734335.html
+15:57:17	Warning: 	HTML file (29419 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-roller-manufacturers-analyze-the-difference-between-three-wheel-roller-and-double-wheel-roller16347101012147853.html
+15:57:19	Warning: 	HTML file (30073 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/black-smoke-problem-of-mini-excavator-engine16345385101802336.html
+15:57:21	Warning: 	HTML file (32246 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/filter-cleaning-and-function-analysis-of-small-excavators16342694635636124.html
+15:57:22	Warning: 	HTML file (29136 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/32-ht10b-small-excavators-sent-to-germany16340163675913220.html
+15:57:25	Warning: 	HTML file (29772 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/maintenance-rules-and-skills-of-mini-excavators16336793563945700.html
+15:57:28	Warning: 	HTML file (29941 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-overall-design-requirements-of-the-modern-small-excavator-cab16328949417488865.html
+15:57:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.sdhightop.com/sqEditor/attached/image/20211027/20211027094437_9796.jpg
+15:57:31	Warning: 	HTML file (31116 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/clutch-operation-process-of-crawler-transport-vehicle16326366001161678.html
+15:57:33	Warning: 	HTML file (30671 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/parking-skills-and-safe-operation-methods-for-small-rollers16324638707039407.html
+15:57:34	Warning: 	HTML file (35671 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/sawmill-sent-to-the-us16323003694769273.html
+15:57:36	Warning: 	HTML file (30495 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/warm-in-mid-autumn-festival16319344861169363.html
+15:57:38	Warning: 	HTML file (29975 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/notice-about-the-mid-autumn-festival-holiday-in-202116318570009275766.html
+15:57:40	Warning: 	HTML file (30805 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-are-the-advantages-of-smashing-tongs-for-digging-machine-accessories16316005937535686.html
+15:57:42	Warning: 	HTML file (30045 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/why-does-the-mini-excavator-emit-black-smoke-from-the-engine16313308657434144.html
+15:57:44	Warning: 	HTML file (33343 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/remote-control-lawn-mower-sent-to-the-us16311712611973963.html
+15:57:46	Warning: 	HTML file (30737 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/maintenance-of-dual-purpose-excavator16309950488228492.html
+15:57:48	Warning: 	HTML file (29752 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-are-the-components-of-a-remote-control-lawn-mower16307221454483164.html
+15:57:49	Warning: 	HTML file (30508 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-earthmoving-projects-demand-more-and-more-small-excavators-do-you-know-why16305660791260892.html
+15:57:51	Warning: 	HTML file (31479 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/road-repair-skills-of-small-excavators16303763121496961.html
+15:57:53	Warning: 	HTML file (30817 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/common-sense-and-advantages-that-operators-of-small-hand-held-rollers-should-know16301196043485688.html
+15:57:55	Warning: 	HTML file (28905 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/custom-tractors-sent-to-europe16299574441973905.html
+15:57:57	Warning: 	HTML file (30392 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-excavator-defects16295161118392340.html
+15:57:59	Warning: 	HTML file (32435 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/mini-excavator-lifting-operation16292703599031216.html
+15:58:01	Warning: 	HTML file (30791 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht12-small-excavator-sent-to-the-united-states16290949579086340.html
+15:58:02	Warning: 	HTML file (29653 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/increased-demand-for-small-excavators-in-rural-areas16285648769386206.html
+15:58:06	Warning: 	HTML file (30866 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-excavator-catches-fire16283072212201746.html
+15:58:07	Warning: 	HTML file (30151 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/warmly-welcome-the-alibaba-dream-journey-team-to-visit-hightop-group16282286727658345.html
+15:58:09	Warning: 	HTML file (28485 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht10-small-excavator-sent-to-the-netherlands16279737805372583.html
+15:58:11	Warning: 	HTML file (32833 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/an-important-part-of-the-cooling-system-of-a-small-excavator16277033610170783.html
+15:58:13	Warning: 	HTML file (33014 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/remote-control-lawn-mower-sent-to-spain16274536971787826.html
+15:58:15	Warning: 	HTML file (30731 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/maintenance-issues-of-chinas-top-ten-brands-of-mini-excavators16272820991019794.html
+15:58:17	Warning: 	HTML file (29952 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/precautions-for-electric-shock-prevention-of-small-excavators16270309650353443.html
+15:58:19	Warning: 	HTML file (28900 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-quotmust-doquot-work-of-a-hand-held-compact-roller16266764010944598.html
+15:58:20	Warning: 	HTML file (28545 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht08-small-excavator-sent-to-spain16264148929534840.html
+15:58:22	Warning: 	HTML file (28721 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht10-small-excavator-sent-to-the-united-states16260762130888433.html
+15:58:24	Warning: 	HTML file (30594 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-development-trend-of-mini-excavators-in-202116257951081465950.html
+15:58:26	Warning: 	HTML file (30353 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-is-the-difference-between-diesel-and-gasoline-used-in-small-rollers16255558367835242.html
+15:58:28	Warning: 	HTML file (30945 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/precautions-for-hydraulic-oil-of-small-excavator-crusher16251972703732458.html
+15:58:30	Warning: 	HTML file (29733 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-big-role-of-crawler-trucks-and-small-agricultural-machinery16249320923025956.html
+15:58:32	Warning: 	HTML file (31983 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/working-condition-analysis-of-hydraulic-small-excavator16246759926088453.html
+15:58:34	Warning: 	HTML file (29510 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht08-small-excavator-sent-to-the-united-states16245062702555786.html
+15:58:36	Warning: 	HTML file (33987 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/functional-requirements-of-modern-monitoring-system-for-small-excavators16243480308417398.html
+15:58:38	Warning: 	HTML file (32588 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/small-excavator-crankshaft-failure16240747828746880.html
+15:58:39	Warning: 	HTML file (30773 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/standard-operation-of-small-rollers-during-running-in-period16237484057445224.html
+15:58:42	Warning: 	HTML file (30115 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/design-and-simulation-of-self-propelled-anti-rollover-for-mountain-orchard-of-crawler-transporter16230520055345370.html
+15:58:43	Warning: 	HTML file (30732 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/details-of-maintenance-of-hydraulic-cylinders-for-small-excavators16227737376599978.html
+15:58:45	Warning: 	HTML file (30203 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-are-the-advantages-of-agricultural-crawler-equipment16225297965613808.html
+15:58:47	Warning: 	HTML file (29046 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-to-do-if-the-tires-of-crawler-trucks-slip16222587554482469.html
+15:58:49	Warning: 	HTML file (32339 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/get-rid-of-traditional-thinking-break-the-traditional-path-jining-optimizes-the-business-environment-and-speeds-up16221042212722314.html
+15:58:51	Warning: 	HTML file (31448 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/8-popular-advantages-of-static-roller-compactors16219253088536578.html
+15:58:53	Warning: 	HTML file (31292 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-essential-operation-guide-for-the-first-time-using-a-small-roller16216528693263443.html
+15:58:55	Warning: 	HTML file (29671 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/how-to-correctly-operate-the-remote-control-lawn-mower16214765042777262.html
+15:58:57	Warning: 	HTML file (30707 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/2021-hightop-group-join-thehandsshare-the-future16213222781338569.html
+15:58:58	Warning: 	HTML file (31219 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-first-9710-customs-helps-jining-city-formally-enter-a-new-era-of-cross-border-e-commerce-export-b2b16207168653205872.html
+15:59:00	Warning: 	HTML file (31372 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/four-principles-of-fault-handling-for-small-excavators16203729277424514.html
+15:59:02	Warning: 	HTML file (29081 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/how-to-drive-a-small-crawler-truck-in-rainy-days16196848879389321.html
+15:59:04	Warning: 	HTML file (29476 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/ht08-mini-excavator-sent-to-europe16194261605185180.html
+15:59:06	Warning: 	HTML file (32843 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-group-was-invited-by-the-taian-municipal-government-to-participate-in-the-taishan-industry-fair16191571064557859.html
+15:59:09	Warning: 	HTML file (30356 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/tips-for-safe-parking-of-small-rollers16189738935979316.html
+15:59:10	Warning: 	HTML file (30591 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/agricultural-crawler-truck-companies-need-to-focus-on-product-quality-and-seek-development16187960967796124.html
+15:59:12	Warning: 	HTML file (29954 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/the-role-of-agricultural-excavator-bulldozer16186372132055368.html
+15:59:14	Warning: 	HTML file (30753 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/characteristics-and-application-fields-of-polyurethane-foaming-machine16183796373165431.html
+15:59:16	Warning: 	HTML file (29735 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-are-the-advantages-of-polyurea-in-products16182044817760359.html
+15:59:18	Warning: 	HTML file (30963 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/what-are-the-working-characteristics-of-small-crawler-transport-vehicles16180250023657616.html
+15:59:20	Warning: 	HTML file (30425 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/warmly-congratulate-shandong-hightop-group-on-being-awarded-the-benefits-page-of-ali-march-expo16147415008246514.html
+15:59:22	Warning: 	HTML file (30169 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-groups-2020-commendation-meeting-ended-successfully16127544075183673.html
+15:59:23	Warning: 	HTML file (28702 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/notice-on-the-holiday-arrangements-for-the-spring-festival-in-202116126738420231183.html
+15:59:25	Warning: 	HTML file (30610 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-group-conducts-all-round-disinfection-work-for-aile-kindergarten-in-jining-high-tech-zone-for-free16113036774831708.html
+15:59:27	Warning: 	HTML file (31475 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/shandong-hightop-group-was-invited-to-participate-in-the-17th-foreign-trade-boss-class16099252837609263.html
+15:59:29	Warning: 	HTML file (28497 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/notice-on-the-holiday-arrangements-for-new-years-day-in-202116093971823809158.html
+15:59:31	Warning: 	HTML file (30908 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hightop-machinery-group-signs-ska-strategic-plan-with-alibaba16087873059555152.html
+15:59:33	Warning: 	HTML file (29964 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/hightop-machinery-group-donated-30000-masks-to-the-united-states-and-peru16083476233858873.html
+15:59:35	Warning: 	HTML file (29529 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/pc08-08-ton-mini-excavator-sent-to-germany16080972294402812.html
+15:59:36	Warning: 	HTML file (30628 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/congratulations-to-shandong-hightop-machinery-group-for-winning-alibabas-quottop-merchant-of-2020quot16080218826828111.html
+15:59:38	Warning: 	HTML file (28581 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/news3.html
+15:59:41	Warning: 	HTML file (31062 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/news2.html
+15:59:42	Warning: 	HTML file (29374 bytes) retransferred due to lack of cache: https://www.sdchinamachine.com/news1.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 40 minutes 13 seconds : 970 links scanned, 1836 files written (235353121 bytes overall) [123165823 bytes received at 20483 bytes/sec], 11491637 bytes transferred using HTTP compression in 284 files, ratio 22%, 1.0 requests per connection
+(4 errors, 219 warnings, 0 messages)
